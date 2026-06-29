@@ -1,0 +1,731 @@
+canonical_identifier: bkk:krp/KR3eu017/v1
+canonical_location: https://kanripo.org/bkk/KR3eu017/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫宗金鑑·訂正仲景全書傷寒論註
+  identifiers:
+    krp: KR3eu017
+  tags:
+    kr-categories: KR3eu
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu017.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eu017_000.yaml, hash: 'sha256:30f0e7153b3d20104b23fa15895228e3245832aef2ecc7ca456b1c241801a266'}
+  - {seq: 1, filename: KR3eu017_001.yaml, hash: 'sha256:ccf92c43a18a7c23ba4b0de7a30342028cb8e56b5c933977b2fcfb8c2ac11aa6'}
+  - {seq: 2, filename: KR3eu017_002.yaml, hash: 'sha256:0f6d3635278cde1b42623f478a661a80c3621250f1a89b8c81045fb79bed2fb5'}
+  - {seq: 3, filename: KR3eu017_003.yaml, hash: 'sha256:fccfc44ba1af220d0afbba51d193d9aec931f1bfa207d7b795a1c46aec665bf3'}
+  - {seq: 4, filename: KR3eu017_004.yaml, hash: 'sha256:e443f600c75ac6bfcbc908f3e198a48661de0bc7d4ad6d164f0f3dbd3efd7696'}
+  - {seq: 5, filename: KR3eu017_005.yaml, hash: 'sha256:fcd3da61ac00375a4d919d6123d5118bd72feccc8c70fd6efb89363abf42452f'}
+  - {seq: 6, filename: KR3eu017_006.yaml, hash: 'sha256:265f1f40d2a38a33252d40c949071479b0b8e125ed3acb9cddc61bf1f5e8d375'}
+  - {seq: 7, filename: KR3eu017_007.yaml, hash: 'sha256:e8804767251372a3acfd7689f7e35d1bdfb6b64cce1cda1195807cf4458a243b'}
+  - {seq: 8, filename: KR3eu017_008.yaml, hash: 'sha256:16d3485496dafa8690e64f03dd7b0ec44e2dc0013b32416c4965739764c46c13'}
+  - {seq: 9, filename: KR3eu017_009.yaml, hash: 'sha256:6842f1a0502c5a783f5d28541068b7540c320d88bda86c33175863087402f56a'}
+  - {seq: 10, filename: KR3eu017_010.yaml, hash: 'sha256:5814c65f1520f2c47a5470c8fc0d7b344ba49976d6811552812d5dbe328fc852'}
+  - {seq: 11, filename: KR3eu017_011.yaml, hash: 'sha256:2f9ecebb2ca58cd0d050f52901ba1e901a212b9c72d0dd1d2da8837f06be721d'}
+  - {seq: 12, filename: KR3eu017_012.yaml, hash: 'sha256:c10c95f29514ced8c9493cbd90305338f4e7b65bc65c9764c2fe2ea420659d36'}
+  - {seq: 13, filename: KR3eu017_013.yaml, hash: 'sha256:18b9ef347eaf8b32079dccf7fcddef9ab9fc4a8d215c24b861c92c0eeb05946e'}
+  - {seq: 14, filename: KR3eu017_014.yaml, hash: 'sha256:a5a735affe52ab03c26940b84e62d2464279eb041c2b133c5f7dd2ca45d0f2cd'}
+  - {seq: 15, filename: KR3eu017_015.yaml, hash: 'sha256:7a001a6925f11a6fa456904a1bf690d3df7a90b2ee383d4e96e8dded5b265f15'}
+  - {seq: 16, filename: KR3eu017_016.yaml, hash: 'sha256:f5e849d470d8a99a09d95ac6357bf1a4c21e85c8cd9a31d539afad02b8a446b8'}
+  - {seq: 17, filename: KR3eu017_017.yaml, hash: 'sha256:33ce43b5cc50bbf813144daa38287f01deac6316c236572c24daeb94c57945d7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eu017_000.markers.yaml, hash: 'sha256:b1fe4a971a74fbd76ce4042566135365b79f58721f64bbc2f4abbf165df3835b'}
+  - {seq: 1, role: markers, filename: assets/KR3eu017_001.markers.yaml, hash: 'sha256:f31e7cd30e931f2f409d7bf9348d3f91091f18d5d6f748c9c740487103f547f0'}
+  - {seq: 2, role: markers, filename: assets/KR3eu017_002.markers.yaml, hash: 'sha256:e6f859cec1751a78ee5b471d3fb0312ab279c027307dcececf98b54b18c42d41'}
+  - {seq: 3, role: markers, filename: assets/KR3eu017_003.markers.yaml, hash: 'sha256:9ad3e25021b1a4aca6406ad5d86e7140a943c1a082d910d7618eebcb6f8b0dae'}
+  - {seq: 4, role: markers, filename: assets/KR3eu017_004.markers.yaml, hash: 'sha256:5617e7e63febddb2bb9fb22c220e3caea3758654c33b8eb3fd67c6058e5409f4'}
+  - {seq: 5, role: markers, filename: assets/KR3eu017_005.markers.yaml, hash: 'sha256:0ef6b140f119ada75d504a03027cae83b4cc75a1951e3022806bca87b27aef39'}
+  - {seq: 6, role: markers, filename: assets/KR3eu017_006.markers.yaml, hash: 'sha256:55eddb49acbd690fd26bc9abe78c1575638ed7bf4f9072f3db10f0df3cc32c47'}
+  - {seq: 7, role: markers, filename: assets/KR3eu017_007.markers.yaml, hash: 'sha256:fb8d6145dbafd73b214f4da6858abff603d02347fa04ba2639027a37e4165617'}
+  - {seq: 8, role: markers, filename: assets/KR3eu017_008.markers.yaml, hash: 'sha256:546a0079fc22ad5c860d641e0fc3fc6d8394b5ff59466ea028fc71c7987a4f09'}
+  - {seq: 9, role: markers, filename: assets/KR3eu017_009.markers.yaml, hash: 'sha256:3ba71272edbe8bc3d60271865bc38ea8eff1eee7959e6b0431b2eb1c952860d8'}
+  - {seq: 10, role: markers, filename: assets/KR3eu017_010.markers.yaml, hash: 'sha256:ea766598cbbc082e08909115973cac3e6ea98892d1e49ab26dc8546ca55f8e55'}
+  - {seq: 11, role: markers, filename: assets/KR3eu017_011.markers.yaml, hash: 'sha256:875074b45b8c85b5dd3a6b622946146b3488d1116d4a123d8470938cd635886a'}
+  - {seq: 12, role: markers, filename: assets/KR3eu017_012.markers.yaml, hash: 'sha256:82d89abfdc98130fa730b55a6f48eb61f0dfe2876610c809a838106ad5d4172c'}
+  - {seq: 13, role: markers, filename: assets/KR3eu017_013.markers.yaml, hash: 'sha256:8949531366777c31946404ae3e6201ee09846a857e7a898912c0760d4344faa2'}
+  - {seq: 14, role: markers, filename: assets/KR3eu017_014.markers.yaml, hash: 'sha256:91da386c76b238c9144948d7df3ab41644080691e720ee0f06bcf4dc8fa7fdda'}
+  - {seq: 15, role: markers, filename: assets/KR3eu017_015.markers.yaml, hash: 'sha256:e80c43ff4fde589bcb3053eeb9d8dda5917a75ed7fe3719d52811ef90363feb2'}
+  - {seq: 16, role: markers, filename: assets/KR3eu017_016.markers.yaml, hash: 'sha256:7577af99379d35e3a989c02007e9665e1704e44aa778c4b4f1bab928add8bc88'}
+  - {seq: 17, role: markers, filename: assets/KR3eu017_017.markers.yaml, hash: 'sha256:0f48d71be6ad6f0b40784930157c300d317a0da6c4b8cc0bbb2e3d12016e3aaa'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eu017_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 885
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eu017_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 21379
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eu017_jc_001-d3d4
+    span:
+    - body
+    - 121
+    - 21379
+  label: 辨太陽病脈證并治上篇
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu017_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 22176
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eu017_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 22176
+  label: 辨太陽病脈證并治中篇
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu017_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 9509
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eu017_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 9509
+  label: 辨太陽病脈證并治下篇
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eu017_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 27816
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eu017_jc_004-d6d2
+    span:
+    - body
+    - 2
+    - 27816
+  label: 辨陽明病脈證并治全篇
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eu017_jc_005-d7.h1s1
+    span:
+    - body
+    - 0
+    - 12546
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3eu017_jc_005-d7d2
+    span:
+    - body
+    - 2
+    - 12546
+  label: 辨少陽病脈證并治全篇
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3eu017_jc_006-d8.h1s1
+    span:
+    - body
+    - 0
+    - 5290
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3eu017_jc_006-d8d2
+    span:
+    - body
+    - 2
+    - 5290
+  label: 辨太陰病脈證并治全篇
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3eu017_jc_007-d9.h1s1
+    span:
+    - body
+    - 0
+    - 16711
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3eu017_jc_007-d9d2
+    span:
+    - body
+    - 2
+    - 16711
+  label: 辨少陰病脈證并治全篇
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eu017_jc_008-d10.h1s1
+    span:
+    - body
+    - 0
+    - 12683
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3eu017_jc_008-d10d2
+    span:
+    - body
+    - 2
+    - 12683
+  label: 辨厥陰病脈證并治全篇
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3eu017_jc_009-d11.h1s1
+    span:
+    - body
+    - 0
+    - 5007
+  label: 卷九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3eu017_jc_009-d11d2
+    span:
+    - body
+    - 2
+    - 5007
+  label: 辨合病併病脈證并治篇
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3eu017_jc_010-d12.h1s1
+    span:
+    - body
+    - 0
+    - 2581
+  label: 卷十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3eu017_jc_010-d12d2
+    span:
+    - body
+    - 2
+    - 2581
+  label: 辨差後勞復食復陰陽易病脈證并治篇
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3eu017_jc_011-d13.h1s1
+    span:
+    - body
+    - 0
+    - 8304
+  label: 卷十一
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3eu017_jc_011-d13d2
+    span:
+    - body
+    - 3
+    - 8304
+  label: 辨壞病脈證并治篇
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3eu017_jc_012-d14.h1s1
+    span:
+    - body
+    - 0
+    - 1960
+  label: 卷十二
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3eu017_jc_012-d14d2
+    span:
+    - body
+    - 3
+    - 1960
+  label: 辨温病脈證并治篇
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3eu017_jc_013-d15.h1s1
+    span:
+    - body
+    - 0
+    - 6148
+  label: 卷十三
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3eu017_jc_013-d15d2
+    span:
+    - body
+    - 3
+    - 6148
+  label: 辨痙濕暍病脈證并治篇
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3eu017_jc_014-d16.h1s1
+    span:
+    - body
+    - 0
+    - 2852
+  label: 卷十四
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3eu017_jc_014-d16d2
+    span:
+    - body
+    - 3
+    - 2852
+  label: 辨霍亂病脈證并治篇
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3eu017_jc_015-d17.h1s1
+    span:
+    - body
+    - 0
+    - 9683
+  label: 卷十五
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3eu017_jc_015-d17d2
+    span:
+    - body
+    - 3
+    - 801
+  label: 辨可汗病脈證篇
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3eu017_jc_015-d17d3
+    span:
+    - body
+    - 801
+    - 3297
+  label: 辨不可汗病脈證篇
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3eu017_jc_015-d17d4
+    span:
+    - body
+    - 3297
+    - 4211
+  label: 辨可吐病脈證篇
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3eu017_jc_015-d17d5
+    span:
+    - body
+    - 4211
+    - 4224
+  label: 辨不可吐病脈證篇
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3eu017_jc_015-d17d6
+    span:
+    - body
+    - 4224
+    - 5385
+  label: 辨可下病脈證篇
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3eu017_jc_015-d17d7
+    span:
+    - body
+    - 5385
+    - 9683
+  label: 辨不可下病脈證篇
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3eu017_jc_016-d18.h1s1
+    span:
+    - body
+    - 0
+    - 19071
+  label: 卷十六
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3eu017_jc_016-d18d2
+    span:
+    - body
+    - 3
+    - 9900
+  label: 平脈法
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3eu017_jc_016-d18d3
+    span:
+    - body
+    - 9900
+    - 19071
+  label: 辨脈法
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19.h1s1
+    span:
+    - body
+    - 0
+    - 12277
+  label: 卷十七
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d2
+    span:
+    - body
+    - 3
+    - 265
+  label: 正誤存疑篇
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d3
+    span:
+    - body
+    - 265
+    - 1104
+  label: 太陽上篇正誤
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d4
+    span:
+    - body
+    - 1104
+    - 2126
+  label: 太陽中篇正誤
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d5
+    span:
+    - body
+    - 2126
+    - 2310
+  label: 太陽下篇正誤
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d6
+    span:
+    - body
+    - 2310
+    - 3301
+  label: 陽明篇正誤
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d7
+    span:
+    - body
+    - 3301
+    - 3870
+  label: 少陽篇正誤
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d8
+    span:
+    - body
+    - 3870
+    - 4061
+  label: 太陰篇正誤
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d9
+    span:
+    - body
+    - 4061
+    - 4147
+  label: 少陰篇正誤
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d10
+    span:
+    - body
+    - 4147
+    - 4700
+  label: 厥陰篇正誤
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d11
+    span:
+    - body
+    - 4700
+    - 4934
+  label: 合病併病篇正誤
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d12
+    span:
+    - body
+    - 4934
+    - 5288
+  label: 壞病篇正誤
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d13
+    span:
+    - body
+    - 5288
+    - 5363
+  label: 痙濕暍病篇正誤
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d14
+    span:
+    - body
+    - 5363
+    - 5417
+  label: 霍亂篇正誤
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d15
+    span:
+    - body
+    - 5417
+    - 5488
+  label: 辨可下篇正誤
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d16
+    span:
+    - body
+    - 5488
+    - 6073
+  label: 平脈法正誤
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d17
+    span:
+    - body
+    - 6073
+    - 7155
+  label: 辨脈法正誤
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d18
+    span:
+    - body
+    - 7155
+    - 7263
+  label: 太陽上篇存疑
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d19
+    span:
+    - body
+    - 7263
+    - 7489
+  label: 太陽下篇存疑
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d20
+    span:
+    - body
+    - 7489
+    - 7644
+  label: 陽明篇存疑
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d21
+    span:
+    - body
+    - 7644
+    - 7669
+  label: 少陰篇存疑
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d22
+    span:
+    - body
+    - 7669
+    - 8120
+  label: 壞病篇存疑
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d23
+    span:
+    - body
+    - 8120
+    - 8177
+  label: 痙濕暍病篇存疑
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d24
+    span:
+    - body
+    - 8177
+    - 8364
+  label: 辨不可汗病篇存疑
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d25
+    span:
+    - body
+    - 8364
+    - 9304
+  label: 辨不可下病篇存疑
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d26
+    span:
+    - body
+    - 9304
+    - 10097
+  label: 陶隱居名醫別錄合藥分劑法則
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d27
+    span:
+    - body
+    - 10097
+    - 10840
+  label: 附三陽三陰經脈各圖
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3eu017_jc_017-d19d28
+    span:
+    - body
+    - 10840
+    - 12277
+  label: 附傷寒刺灸等穴圖
+  type: section
+  level: 2
+hash: sha256:5d11b10a2e1235e4bf1222706bc973968d0364dc000ab14624ab6dcafe4cbde1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
