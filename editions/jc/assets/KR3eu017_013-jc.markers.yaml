@@ -1918,6 +1918,7 @@ markers:
   - {type: 'tls:seg-end', offset: 4265, content: '', id: KR3eu017_jc_013-d15.d2.p128s5_end, seg_type: comm}
   - {type: 'tls:seg', offset: 4265, content: '', id: KR3eu017_jc_013-d15.d2.p128s6}
   - {type: punctuation, offset: 4267, content: (, id: KR3eu017_jc_013-bkkpn933}
+  - {type: voice, offset: 4267, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 4269, content: ), id: KR3eu017_jc_013-bkkpn934}
   - {type: 'tls:seg', offset: 4269, content: '', id: KR3eu017_jc_013-d15.d2.p128s7}
   - {type: 'tls:seg-start', offset: 4271, content: '', id: KR3eu017_jc_013-d15.d2.p128s8, seg_type: comm, member_ids: [KR3eu017_jc_013-d15.d2.p128s8, KR3eu017_jc_013-d15.d2.p128s9]}
@@ -2174,9 +2175,11 @@ markers:
   - {type: 'tls:seg-end', offset: 4745, content: '', id: KR3eu017_jc_013-d15.d2.p142s8_end, seg_type: comm}
   - {type: 'tls:seg', offset: 4745, content: '', id: KR3eu017_jc_013-d15.d2.p142s9}
   - {type: punctuation, offset: 4747, content: (, id: KR3eu017_jc_013-bkkpn1051}
+  - {type: voice, offset: 4747, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 4749, content: ), id: KR3eu017_jc_013-bkkpn1052}
   - {type: 'tls:seg', offset: 4749, content: '', id: KR3eu017_jc_013-d15.d2.p142s10}
   - {type: punctuation, offset: 4751, content: (, id: KR3eu017_jc_013-bkkpn1053}
+  - {type: voice, offset: 4751, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 4753, content: ), id: KR3eu017_jc_013-bkkpn1054}
   - {type: xml-element, offset: 4753, content: '', id: KR3eu017_jc_013-d15.d2p142_end, name: p, role: close, attrs: {'xml:id': KR3eu017_jc_013-d15.d2p142}}
   - {type: xml-element, offset: 4753, content: '', id: KR3eu017_jc_013-d15.d2p144, name: p, role: open, attrs: {'xml:id': KR3eu017_jc_013-d15.d2p144}}
@@ -2750,4 +2753,4 @@ markers:
   - {type: punctuation, offset: 6148, content: 。, id: KR3eu017_jc_013-bkkpn1329}
   - {type: xml-element, offset: 6148, content: '', id: KR3eu017_jc_013-d15.d2p176_end, name: p, role: close, attrs: {'xml:id': KR3eu017_jc_013-d15.d2p176}}
   back: []
-hash: sha256:355d0b51fcfcbe9f9db76042db0c40fcb38202c524e8a72e7c58ce3bd3da26d4
+hash: sha256:b09066fa2406c719bc41091bf795a0a05762c0eaad79aad891d7d7e142ac7436

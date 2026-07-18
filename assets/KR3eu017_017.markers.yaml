@@ -140,6 +140,7 @@ markers:
   - {type: 'tls:seg-end', offset: 281, content: '', id: KR3eu017_jc_017-d19.d3.p4s2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 281, content: '', id: KR3eu017_jc_017-d19.d3.p4s3}
   - {type: punctuation, offset: 283, content: (, id: KR3eu017_jc_017-bkkpn70}
+  - {type: voice, offset: 283, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 285, content: ), id: KR3eu017_jc_017-bkkpn71}
   - {type: 'tls:seg', offset: 285, content: '', id: KR3eu017_jc_017-d19.d3.p4s4}
   - {type: 'tls:seg-start', offset: 287, content: '', id: KR3eu017_jc_017-d19.d3.p4s5, seg_type: comm, member_ids: [KR3eu017_jc_017-d19.d3.p4s5, KR3eu017_jc_017-d19.d3.p4s6]}
@@ -5280,6 +5281,7 @@ markers:
   - {type: 'tls:seg-end', offset: 9411, content: '', id: KR3eu017_jc_017-d19.d26.p4s4_end, seg_type: comm}
   - {type: 'tls:seg', offset: 9411, content: '', id: KR3eu017_jc_017-d19.d26.p4s5}
   - {type: punctuation, offset: 9416, content: (, id: KR3eu017_jc_017-bkkpn2768}
+  - {type: voice, offset: 9416, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 9418, content: ), id: KR3eu017_jc_017-bkkpn2769}
   - {type: punctuation, offset: 9418, content: ，, id: KR3eu017_jc_017-bkkpn2770}
   - {type: 'tls:seg', offset: 9418, content: '', id: KR3eu017_jc_017-d19.d26.p4s6}
@@ -5317,6 +5319,7 @@ markers:
   - {type: punctuation, offset: 9503, content: ，, id: KR3eu017_jc_017-bkkpn2784}
   - {type: 'tls:seg', offset: 9503, content: '', id: KR3eu017_jc_017-d19.d26.p8s2}
   - {type: punctuation, offset: 9505, content: (, id: KR3eu017_jc_017-bkkpn2785}
+  - {type: voice, offset: 9505, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 9507, content: ), id: KR3eu017_jc_017-bkkpn2786}
   - {type: punctuation, offset: 9512, content: ，, id: KR3eu017_jc_017-bkkpn2787}
   - {type: 'tls:seg', offset: 9512, content: '', id: KR3eu017_jc_017-d19.d26.p8s3}
@@ -6648,4 +6651,4 @@ markers:
   - {type: punctuation, offset: 12277, content: 。, id: KR3eu017_jc_017-bkkpn3409}
   - {type: xml-element, offset: 12277, content: '', id: KR3eu017_jc_017-d19.d28p66_end, name: p, role: close, attrs: {'xml:id': KR3eu017_jc_017-d19.d28p66}}
   back: []
-hash: sha256:0f47886d320b446adee6eca590f40351d7d18e37e83c805b0b7f6a989749f615
+hash: sha256:b154889b4aaffe420dad948a409ea841386f5295a877d2978037a3b19b3d92ef
